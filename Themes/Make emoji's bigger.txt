@@ -1,0 +1,8 @@
+.emoji.jumboable {
+    width: 50px !important;
+    height: 50px !important;
+}
+.emoji{
+    width: 50px !important;
+    height: 50px !important;
+}
