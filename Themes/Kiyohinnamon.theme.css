@@ -1,0 +1,81 @@
+//META{"name":"Kiyohinnamon","description":"A theme for bright hair lovers","author":"Rayleigh Byakuya","version":"1.0"}*//
+@@import url()
+
+.app {
+  background-image: url() !important;
+  background-size: cover !important;
+}
+.guilds {
+        background-image: url(https://i.imgur.com/aNDGqli.png) !important;
+}
+.scroller-fzNley.scroller-NXV0-d {
+   background-image: url() !important;
+background-size: cover !important;
+background-position: center !important;
+}
+.nameDefaultText-QoumjC,
+.nameDefaultVoice-1swZoh,
+.nameLockedText-2fGz07,
+.nameLockedVoice-wNOMNa {
+    color: rgb(114, 118, 125);
+}
+.channels-3g2vYe {
+    background-color: transparent;
+}
+.container-RYiLUQ {
+    background-color: transparent;
+}
+.container-2OU7Cz {
+    background-color: transparent;
+}
+.theme-dark .layer, .theme-dark .layers {
+    background: rgba(0,0,0,0.34);
+}
+.guilds-wrapper {
+    background-color: transparent;
+}
+.theme-dark .chat form .typing {
+    background-color: transparent;
+}
+.theme-dark .chat form {
+    background-color: transparent;
+    box-shadow: none;
+}
+.theme-dark .chat>.content {
+    background-color: transparent;
+}
+.theme-dark .chat {
+    background-color: transparent;
+}
+.chat .messages {
+    background: transparent;
+}
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: transparent;
+}
+.theme-dark .channel-members {
+    background-color: transparent;
+}
+.theme-dark .title-qAcLxz {
+    background: transparent;
+    box-shadow: none;
+}
+
+.theme-dark #friends {
+    background-color: transparent;
+}
+.theme-dark .headerBar-cxbhPD {
+    background: transparent;
+}
+.contentSelectedText-3j5CXt,.contentHoveredText-2HYGIY {
+    background-color: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view {
+    background: transparent;
+}
