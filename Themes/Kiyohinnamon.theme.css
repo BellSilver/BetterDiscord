@@ -1,17 +1,20 @@
 //META{"name":"Kiyohinnamon","description":"A theme for bright hair lovers","author":"Rayleigh Byakuya","version":"1.0"}*//
-@@import url()
+@import url(https://gitcdn.xyz/repo/BellSilver/BetterDiscord/master/Themes/Kiyohinnamon.theme.css);
+@import url(https://raw.githubusercontent.com/BellSilver/BetterDiscord/master/Themes/Kiyohinnamon.theme.css);
 
 .app {
-  background-image: url() !important;
+  background-image: url(https://wallup.net/wp-content/uploads/2016/04/10/320509-anime-anime_girls-thigh-highs-blue_hair-fans-Fate-Grand_Order-Kiyohime_Fate-Grand_Order-Fate_Series.jpg) !important;
   background-size: cover !important;
+  background-position: center !important;
 }
 .guilds {
         background-image: url(https://i.imgur.com/aNDGqli.png) !important;
 }
 .scroller-fzNley.scroller-NXV0-d {
-   background-image: url() !important;
+   background-image: url(https://static.zerochan.net/Berserker.%28Kiyohime%29.full.2019073.jpg) !important;
 background-size: cover !important;
 background-position: center !important;
+text-color: white !important;
 }
 .nameDefaultText-QoumjC,
 .nameDefaultVoice-1swZoh,
