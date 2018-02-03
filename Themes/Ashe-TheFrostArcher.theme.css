@@ -23,7 +23,7 @@ _____ _          _____              _      _             _
 /* Main background and settings background */
 .app,
 .callout-backdrop {
-  background-image: url("https://danbooru.donmai.us/data/__ashe_and_championship_ashe_league_of_legends_drawn_by_jem_flores__219b9518b74b454e917d07955b1abb6d.jpg") !important;
+  background-image: url("https://i.imgur.com/Karixsf.jpg") !important;
   background-size: cover !important;
   background-position: center !important;
 	/*Background changed to Ashe*/
@@ -51,14 +51,8 @@ _____ _          _____              _      _             _
 background-size: auto;
 background-position: center;
 }
-.nameCollapsed-3_ChMu, .nameDefault-Lnjrwm, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI, .nameMuted-1n0LSj, .nameUnread-WKlSv- {
-  color: white;
-}
-.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .colorDefaultText-2v6rRX, .colorDefaultVoice-1x4dEl {
-     color: white;
-}
-.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
-  color: white;
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: white !important;
 }
 /*
                                 _ _     _                   _   _
